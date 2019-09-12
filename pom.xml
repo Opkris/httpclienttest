@@ -39,9 +39,7 @@
                 <version>2.22.2</version>
             </plugin>
         </plugins>
-
     </build>
-
     <properties>
         <encoding>UTF-8</encoding>
     </properties>
